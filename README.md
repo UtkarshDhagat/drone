@@ -46,7 +46,7 @@ Follow the instructions below to build and run the entire system on macOS/Linux.
 ### 1. 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/UtkarshDhagat/drones.git
+git clone https://github.com/UtkarshDhagat/drone.git
 cd drones
 ```
 
