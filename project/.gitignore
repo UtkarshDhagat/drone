@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+*.npy
+*.npz
+
+# macOS
+.DS_Store
+
+# CMake / C++
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and temp
+*.log
+*.swp
+*.swo
